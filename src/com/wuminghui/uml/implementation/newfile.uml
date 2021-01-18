@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="106.0">com.wuminghui.uml.implementation.PersonServiceBean</node>
+    <node x="28.5" y="0.0">com.wuminghui.uml.implementation.PersonService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wuminghui.uml.implementation.PersonServiceBean" target="com.wuminghui.uml.implementation.PersonService">
+      <point x="0.0" y="-28.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="2.1000000000000005" x="133.14285714285705" y="138.14285714285705" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

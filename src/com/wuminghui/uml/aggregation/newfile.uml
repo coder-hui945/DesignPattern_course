@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">com.wuminghui.uml.aggregation.Mouse</node>
+    <node x="192.0" y="0.0">com.wuminghui.uml.aggregation.Moniter</node>
+    <node x="79.12499999999999" y="106.0">com.wuminghui.uml.aggregation.Computer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wuminghui.uml.aggregation.Computer" target="com.wuminghui.uml.aggregation.Moniter">
+      <point x="26.125" y="-28.0" />
+      <point x="209.75" y="81.0" />
+      <point x="238.25" y="81.0" />
+      <point x="-46.25" y="28.0" />
+    </edge>
+    <edge source="com.wuminghui.uml.aggregation.Computer" target="com.wuminghui.uml.aggregation.Mouse">
+      <point x="-78.375" y="-28.0" />
+      <point x="105.24999999999999" y="81.0" />
+      <point x="43.0" y="81.0" />
+      <point x="-43.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.9000000000000004" x="267.2971353122282" y="105.92350167891954" />
+  <SelectedNodes>
+    <node>com.wuminghui.uml.aggregation.Mouse</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

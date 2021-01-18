@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="211.99999999999997" y="0.0">com.wuminghui.uml.association.MmCard1</node>
+    <node x="176.99999999999997" y="106.0">com.wuminghui.uml.association.Person</node>
+    <node x="0.0" y="0.0">com.wuminghui.uml.association.MmCard</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wuminghui.uml.association.Person" target="com.wuminghui.uml.association.MmCard1">
+      <point x="0.0" y="-28.0" />
+      <point x="-51.5" y="28.0" />
+    </edge>
+    <edge source="com.wuminghui.uml.association.MmCard1" target="com.wuminghui.uml.association.Person">
+      <point x="51.5" y="28.0" />
+      <point x="366.5" y="81.0" />
+      <point x="321.16666666666663" y="81.0" />
+      <point x="57.66666666666665" y="-28.0" />
+    </edge>
+    <edge source="com.wuminghui.uml.association.Person" target="com.wuminghui.uml.association.MmCard">
+      <point x="-57.66666666666666" y="-28.0" />
+      <point x="205.83333333333331" y="81.0" />
+      <point x="96.0" y="81.0" />
+      <point x="0.0" y="28.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="2.9000000000000012" x="144.92301072518433" y="144.08376680790448" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

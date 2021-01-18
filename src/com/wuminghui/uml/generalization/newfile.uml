@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="11.5" y="194.0">com.wuminghui.uml.generalization.PersonServiceBean</node>
+    <node x="0.0" y="0.0">com.wuminghui.uml.generalization.DaoSupport</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wuminghui.uml.generalization.PersonServiceBean" target="com.wuminghui.uml.generalization.DaoSupport">
+      <point x="0.0" y="-28.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="2.0000000000000004" x="140.0" y="93.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
